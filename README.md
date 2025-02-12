@@ -2,8 +2,7 @@
 
 
 ### **🔗 Database Schema Diagram**
-<img src="![Database Schema Diagram](https://github.com/user-attachments/assets/0bdaa0af-4d1f-47cd-baec-904688e723d1)
-">
+<img src="https://github.com/user-attachments/assets/0bdaa0af-4d1f-47cd-baec-904688e723d1">
 
 
 
